@@ -1,4 +1,4 @@
-# Basic Uaser Data App
+# Basic User Data App
 
 A new Flutter project.
 
